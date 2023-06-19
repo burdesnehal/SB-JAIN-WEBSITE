@@ -16,7 +16,7 @@ div nav ul li{
    float: left;
    font:inherit;
   }
-header{
+header nav{
     position: fixed;
     top:0;
     left: 0;
